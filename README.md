@@ -10,10 +10,5 @@
  -Watching the trailer of the movie or video related to the movie in the window that opens under each movie after clicking it
    
 
-
-https://user-images.githubusercontent.com/112831263/232339937-b9f3ad9b-ce36-4a74-abff-40accf82fafa.mp4
-
-
-
-https://user-images.githubusercontent.com/112831263/232339988-e95221bb-742a-4abd-9a3e-cf07d473ca98.mp4
-
+![React App - Google Chrome 16 04 2023 23_24_45](https://user-images.githubusercontent.com/112831263/232340286-bca0db08-80e1-4ca3-9f51-1e1d4b7d54ad.png)
+![React App - Google Chrome 16 04 2023 23_25_33](https://user-images.githubusercontent.com/112831263/232340289-f172f09c-6bf5-4c1b-ad23-3e598f1523cc.png)
