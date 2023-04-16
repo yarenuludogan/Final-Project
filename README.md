@@ -1,5 +1,5 @@
 # Final Project
- This is my Yazılımcı Fabrikası final project.
+ This is my Yazılımcı Fabrikası final project. I used React, Firebase and Tailwind for this project.
  
   Project Features
   
@@ -8,3 +8,4 @@
  -Saving the user account information to the firebase after registration or login to the page with mail adress and password
  
  -Watching the trailer of the movie or video related to the movie in the window that opens under each movie after clicking it
+   
